@@ -1,0 +1,404 @@
+{
+  [
+    "id": 1,
+    "categorie": "inconnue",
+    "description": "Crois en toi et en tes capacités.",
+    "author": "Anonyme"
+    ],
+  [
+    "id": 2,
+  "categorie": "inconnue",
+  "description": "Agis (traduisez « Travaille ») comme si tu n’étais plus là demain. Ose.",
+  "author": "Anonyme"
+    ],[
+    "id": 3,
+  "categorie": "inconnue",
+    "description": "Sois toi-même (et pas l’idéal que tu te fais de toi).",
+    "author": "Anonyme"
+    ],[
+    "id": 4,
+  "categorie": "inconnue",
+    "description": "Rêve et essaye",
+    "author": "Anonyme"
+    ],[
+    "id": 5,
+  "categorie": "inconnue",
+    "description": "Dans la vie, on a toujours le choix (même limité, contraint, ou mauvais). Choisis avant qu’on ne choisisse pour toi.",
+    "author": "Anonyme"
+    ],[
+    "id": 6,
+  "categorie": "inconnue",
+    "description": "Donne-toi les moyens de toujours faire ce que tu veux.",
+    "author": "Anonyme"
+    ],[
+    "id": 7,
+  "categorie": "inconnue",
+    "description": "Personne n’est irremplaçable.",
+    "author": "Anonyme"
+    ],[
+    "id": 8,
+  "categorie": "inconnue",
+    "description": "Lis, lis, et lis encore. Pour s’ouvrir au monde et ne pas cesser d’apprendre.",
+    "author": "Anonyme"
+    ],[
+    "id": 9,
+  "categorie": "inconnue",
+    "description": "Prends soin de toi, c’est toi qui a la main sur ta vie.",
+    "author": "Anonyme"
+    ],[
+    "id": 10,
+  "categorie": "inconnue",
+    "description": "Suis ton instinct !",
+    "author": "Anonyme"
+    ],[
+    "id": 11,
+  "categorie": "la vie",
+    "description": "Ayez le courage de vivre la vie que vous voulez, pas celle que les autres vous imposent.",
+    "author": "Anonyme"
+    ],[
+    "id": 12,
+    "categorie": "la vie",
+    "description": "N'attribuez jamais à la malveillance ce que la bêtise suffit à expliquer.",
+    "author": "Robert J. Hanlon"
+    ],[
+    "id": 13,
+    "categorie": "la vie",
+    "description": "Il n’y a rien de noble à être supérieur à vos semblables. La vraie noblesse, c'est être supérieur à celui que vous avez été auparavant.",
+    "author": "Ernest Hemingway"
+    ],[
+    "id": 14,
+    "categorie": "la vie",
+    "description": "Ne prenez pas de décision quand vous êtes en colère. Et ne faites pas de promesse quand vous êtes heureux.",
+    "author": "Anonyme"
+    ],[
+    "id": 15,
+    "categorie": "la vie",
+    "description": "Ne discutez pas avec les gens stupides. Ils vous font tomber à leur niveau et vous battent avec l’expérience.",
+    "author": "Mark Twain"
+    ],[
+    "id": 16,
+    "categorie": "la vie",
+    "description": "Ne voyagez qu'avec ce que vous pouvez porter vous-même.",
+    "author": "Anonyme"
+    ],[
+    "id": 17,
+    "categorie": "la vie",
+    "description": "N'oubliez jamais : Dans la vie, on ne regrette que ce qu’on n’a pas fait.",
+    "author": "Jean Cocteau"
+    ],[
+    "id": 18,
+    "categorie": "la vie",
+    "description": "Si vous remettez toujours la faute sur les autres, ne vous attendez pas à ce que la situation s'améliore.",
+    "author": "Anonyme"
+    ],[
+    "id": 19,
+    "categorie": "la vie",
+    "description": "Vous pouvez être la plus mûre et la plus juteuse des pêches au monde, il y aura toujours quelqu'un qui n'aimera pas les pêches.",
+    "author": "Dita Von Teese"
+    ],[
+    "id": 20,
+    "categorie": "la vie",
+    "description": "L'herbe est toujours plus verte chez les autres... jusqu'à ce qu'on découvre que c'est du gazon artificiel.",
+    "author": "Jacques Salomé"
+    ],[
+    "id": 21,
+    "categorie": "la vie",
+    "description": "Ne renoncez pas à ce que vous désirez le plus dans la vie pour quelque chose que voulez maintenant.",
+    "author": "Anonyme"
+    ],[
+    "id": 22,
+    "categorie": "la vie",
+    "description": "En ce qui concerne le sexe opposé : si vous avez l'air d'être affamé, vous mourrez de faim.",
+    "author": "Anonyme"
+    ],[
+    "id": 23,
+  "categorie": "la vie",
+    "description": "Efforcez-vous d'être l'homme que vous voulez que votre fille épouse.",
+    "author": "Anonyme"
+    ],[
+    "id": 24,
+  "categorie": "la vie",
+    "description": "Il n’y a que les ennemis qui disent la vérité ; les amis et les amants mentent sans cesse, pris au piège dans la toile du devoir.",
+    "author": "Stephen King"
+    ],[
+    "id": 25,
+  "categorie": "la vie",
+    "description": "Attendez 24 heures avant de vous mettre en colère et de réagir à quoi que ce soit. Si cela ne vous dérange plus au bout de 24 heures, ce n'était probablement pas assez grave pour vous énerver.",
+    "author": "Anonyme"
+    ],[
+    "id": 26,
+  "categorie": "la vie",
+    "description": "Ne faites pas d’une personne une priorité quand pour elle, vous n'êtes qu’une option.",
+    "author": "Anonyme"
+    ],[
+    "id": 27,
+  "categorie": "la vie",
+    "description": "Essayez de ne pas prendre les choses personnellement. Pourquoi ? Car en fait, personne ne pense à vous autant que vous-même.",
+    "author": "Anonyme"
+    ],[
+    "id": 28,
+  "categorie": "la vie",
+    "description": "Si tu veux savoir ce que vaut réellement un homme, regarde comment il traite ses inférieurs, pas ses égaux.",
+    "author": "Sirius Black"
+    ],[
+    "id": 29,
+  "categorie": "la vie",
+    "description": "Trouvez d'abord ce que vous aimez faire dans la vie, puis trouvez un moyen de vous faire payer pour le faire.",
+    "author": "Anonyme"
+    ],[
+    "id": 30,
+  "categorie": "la vie",
+    "description": "Si vous traitez un homme comme un roi ou une femme comme une reine et qu'en retour il ou elle vous traite comme un bouffon, votre prince ou princesse est sûrement dans un autre château.",
+    "author": "Anonyme"
+    ],[
+    "id": 31,
+  "categorie": "la vie",
+    "description": "À chaque fois que quelque chose vous rend triste, demandez-vous si vous vous en soucieriez encore quand vous aurez 90 ans.",
+    "author": "Anonyme"
+    ],[
+    "id": 32,
+  "categorie": "la vie",
+    "description": "Dans la vie, soyez persévérant. Lorsque les connaissances et les compétences ne suffisent pas, la solution se trouve dans la persévérance.",
+    "author": "Anonyme"
+    ],[
+    "id": 33,
+  "categorie": "la vie",
+    "description": "Les filles intelligentes aiment bien entendre qu'elles sont jolies et les jolies filles aiment bien entendre qu'elles sont intelligentes.",
+    "author": "Anonyme"
+    ],[
+    "id": 34,
+  "categorie": "la vie",
+    "description": "Le bonheur est un choix et tout le reste n'est qu'une question de perspective.",
+    "author": "Anonyme"
+    ],[
+    "id": 35,
+  "categorie": "la vie",
+    "description": "Réalisez vos rêves, même si vous devez changer de voie.",
+    "author": "Oprah Winfrey"
+    ],[
+    "id": 36,
+  "categorie": "la vie",
+    "description": "Ne laissez pas vos peurs vous empêcher de vivre votre vie.",
+    "author": "Eleanor Roosevelt"
+    ],[
+    "id": 37,
+  "categorie": "la vie",
+    "description": "La vie est trop courte pour être triste.",
+    "author": "Dalai Lama"
+    ],[
+    "id": 38,
+  "categorie": "la vie",
+    "description": "Soyez gentil avec vous-même.",
+    "author": "Brené Brown"
+    ],[
+    "id": 39,
+  "categorie": "la vie",
+    "description": "Passez du temps avec les personnes qui vous aiment et vous soutiennent.",
+    "author": "Maya Angelou"
+    ],[
+    "id": 40,
+  "categorie": "la vie",
+    "description": "Apprenez à dire non.",
+    "author": "Anne Lamott"
+    ],[
+    "id": 41,
+  "categorie": "la vie",
+    "description": "Ne comparez pas votre vie à celle des autres.",
+    "author": "Mark Twain"
+    ],[
+    "id": 42,
+  "categorie": "la vie",
+    "description": "Soyez reconnaissant pour ce que vous avez.",
+    "author": "Zig Ziglar"
+    ],[
+    "id": 43,
+  "categorie": "Relations",
+    "description": "Soyez honnête et transparent avec vos proches.",
+    "author": "Gary Chapman"
+    ],[
+    "id": 44,
+  "categorie": "Relations",
+    "description": "Communiquez efficacement.",
+    "author": "John Gottman"
+    ],[
+    "id": 45,
+  "categorie": "Relations",
+    "description": "Apprenez à pardonner.",
+    "author": "Marianne Williamson"
+    ],[
+    "id": 46,
+  "categorie": "Relations",
+    "description": "Soyez patient et compréhensif.",
+    "author": "Thich Nhat Hanh"
+    ],[
+    "id": 47,
+  "categorie": "Relations",
+    "description": "Ayez des attentes réalistes.",
+    "author": "Harriet Lerner"
+    ],[
+    "id": 48,
+  "categorie": "Relations",
+    "description": "Apprenez à dire non aux demandes irréalistes.",
+    "author": "Susan Forward"
+    ],[
+    "id": 49,
+  "categorie": "Carrière",
+    "description": "Trouvez un travail que vous aimez.",
+    "author": "Mark Twain"
+    ],[
+    "id": 50,
+  "categorie": "Carrière",
+    "description": "Soyez passionné par ce que vous faites.",
+    "author": "Steve Jobs"
+    ],[
+    "id": 51,
+    "categorie": "Carrière",
+    "description": "Soyez bon dans ce que vous faites.",
+    "author": "Warren Buffett"
+    ],[
+    "id": 52,
+    "categorie": "Carrière",
+    "description": "Soyez travailleur et dévoué.",
+    "author": "Oprah Winfrey"
+    ],[
+    "id": 53,
+    "categorie": "Carrière",
+    "description": "Soyez positif et optimiste.",
+    "author": "Eleanor Roosevelt"
+    ],[
+    "id": 54,
+    "categorie": "Carrière",
+    "description": "Soyez résilient et ne vous laissez pas abattre.",
+    "author": "Winston Churchill"
+    ],[
+    "id": 55,
+    "categorie": "Carrière",
+    "description": "Soyez prêt à apprendre et à vous adapter.",
+    "author": "Bill Gates"
+    ],[
+    "id": 56,
+    "categorie": "Carrière",
+    "description": "Soyez prêt à prendre des risques.",
+    "author": "Mark Cuban"
+    ],[
+    "id": 57,
+    "categorie": "Finances",
+    "description": "Gérez votre budget.",
+    "author": "Dave Ramsey"
+    ],[
+    "id": 58,
+    "categorie": "Finances",
+    "description": "Épargnez de l'argent.",
+    "author": "Suze Orman"
+    ],[
+    "id": 59,
+    "categorie": "Finances",
+    "description": "Investissez votre argent.",
+    "author": "Warren Buffett"
+    ],[
+    "id": 60,
+    "categorie": "Finances",
+    "description": "Soyez prudent avec vos dépenses.",
+    "author": "Gail Vaz-Oxlade"
+    ],[
+    "id": 61,
+    "categorie": "Finances",
+    "description": "Apprenez à négocier.",
+    "author": "Chris Voss"
+    ],[
+    "id": 62,
+    "categorie": "Finances",
+    "description": "Faites vos recherches avant de faire un achat.",
+    "author": "Clark Howard"
+    ],[
+    "id": 63,
+    "categorie": "Finances",
+    "description": "Soyez patient et discipliné.",
+    "author": "Robert Kiyosaki"
+    ],[
+    "id": 64,
+    "categorie": "Éducation",
+    "description": "Apprenez constamment de nouvelles choses.",
+    "author": "Albert Einstein"
+    ],[
+    "id": 65,
+    "categorie": "Éducation",
+    "description": "Soyez curieux et ouvert d'esprit.",
+    "author": "Susan Cain"
+    ],[
+    "id": 66,
+    "categorie": "Éducation",
+    "description": "Ne laissez pas votre âge vous empêcher d'apprendre.",
+    "author": "Helen Keller"
+    ],[
+    "id": 67,
+    "categorie": "Éducation",
+    "description": "Ne laissez pas votre peur de l'échec vous empêcher de réussir.",
+    "author": "Michael Jordan"
+    ],[
+    "id": 68,
+    "categorie": "Éducation",
+    "description": "Soyez prêt à faire des efforts.",
+    "author": "Thomas Edison"
+    ],[
+    "id": 69,
+    "categorie": "Éducation",
+    "description": "Soyez patient et persévérant.",
+    "author": "Winston Churchill"
+    ],[
+    "id": 70,
+    "categorie": "Éducation",
+    "description": "Soyez prêt à changer d'avis.",
+    "author": "Benjamin Franklin"
+    ],[
+    "id": 71,
+    "categorie": "Éducation",
+    "description": "Soyez prêt à apprendre des autres.",
+    "author": "Confucius"
+    ],[
+    "id": 72,
+    "categorie": "Vie sociale",
+    "description": "Soyez impliqué dans votre communauté.",
+    "author": "Barack Obama"
+    ],[
+    "id": 73,
+    "categorie": "Vie sociale",
+    "description": "Aidez les autres.",
+    "author": "Mother Teresa"
+    ],[
+    "id": 74,
+    "categorie": "Vie sociale",
+    "description": "Soyez gentil et compassionnel.",
+    "author": "Dalai Lama"
+    ],[
+    "id": 75,
+    "categorie": "Vie sociale",
+    "description": "Soyez tolérant et respectueux des différences.",
+    "author": "Nelson Mandela"
+    ],[
+    "id": 76,
+    "categorie": "Vie sociale",
+    "description": "Soyez ouvert à de nouvelles expériences.",
+    "author": "Maya Angelou"
+    ],[
+    "id": 77,
+    "categorie": "Vie sociale",
+    "description": "Voyagez et découvrez de nouveaux endroits.",
+    "author": "Mark Twain"
+    ],[
+    "id": 78,
+    "categorie": "Vie sociale",
+    "description": "advice",
+    "author": "Anonyme"
+    ],[
+    "id": 79,
+    "categorie": "Vie sociale",
+    "description": "advice",
+    "author": "Anonyme"
+    ],[
+    "id": 80,
+    "categorie": "Vie sociale",
+    "description": "advice",
+    "author": "Anonyme"
+    ]
+}
