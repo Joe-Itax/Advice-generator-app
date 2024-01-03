@@ -1,4 +1,112 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Manrope', sans-serif;
+}
+
 html {
   height: 100%;
   width: 100%;
+}
+
+:root {
+  --color-primary-light-cyan: hsl(193, 38%, 86%);
+  --color-primary-neon-green: hsl(150, 100%, 66%);
+  --color-primary-neon-green-hover: hsl(151, 100%, 66%);
+  --grayish-blue: hsl(217, 19%, 38%);
+  --dark-grayish-blue: hsl(217, 19%, 24%);
+  --dark-blue: hsl(218, 23%, 16%);
+}
+
+body {
+
+  position: relative;
+  height: 100%;
+  width: 100%;
+  background-color: var(--dark-blue);
+  color: var(--color-primary-light-cyan);
+}
+
+main {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main .advice-box {
+  position: relative;
+  background-color: var(--dark-grayish-blue);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+  padding: 1rem;
+  border-radius: .8rem;
+  width: 30rem;
+  margin-bottom: 3rem;
+}
+
+main .advice-box .advice-number-box p {
+  font-size: 1.25rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 3.50px;
+  color: var(--color-primary-neon-green);
+}
+
+main .advice-box .content-advice p {
+  font-size: 1.6rem;
+  font-weight: 800;
+}
+
+main .advice-box .author-advice p {
+  font-style: italic;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+main .advice-box .icon-advice {
+  margin-bottom: 3rem;
+}
+
+main .advice-box .next-advice-btn {
+  position: absolute;
+  background-color: var(--color-primary-neon-green);
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all .3s ease-in-out;
+}
+
+main .advice-box .next-advice-btn:hover {
+  box-shadow: 0 0 10px rgba(83, 255, 171, .6),
+    0 0 20px rgba(83, 255, 171, .8);
+  background-color: var(--color-primary-neon-green-hover);
+}
+
+main .advice-box .next-advice-btn svg {
+  background-color: var(--color-primary-neon-green);
+}
+
+
+@media screen and (max-width: 550px) {
+  main {
+    padding: 1rem;
+  }
+
+  main .advice-box {
+    width: 100%;
+  }
 }
