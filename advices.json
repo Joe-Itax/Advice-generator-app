@@ -460,5 +460,83 @@
     "categorie": "Vie sociale",
     "description": "Voyagez et découvrez de nouveaux endroits.",
     "author": "Mark Twain"
+  },
+  {
+    "id": 78,
+    "categorie": "inconnue",
+    "description": "N'abandonnez pas quand vous ne pouvez pas voir les réultats tout de suite. Certaines choses prennent du temps. Soyez juste patient avec vous-même.",
+    "author": "Anonyme"
+  },
+  {
+    "id": 79,
+    "categorie": "inconnue",
+    "description": "Rien n'est trop petit pour être connu et rien n'est trop grand pour être tenté.",
+    "author": "William Van Horne"
+  },
+  {
+    "id": 80,
+    "categorie": "inconnue",
+    "description": "Peu importe ce que les gens vous disent, les mots et les idées peuvent changer le monde.",
+    "author": "Robin Williams"
+  },
+  {
+    "id": 81,
+    "categorie": "inconnue",
+    "description": "Il n'y a pas de petit acte de gentillesse. Chaque acte de compassion agrandit le monde.",
+    "author": "Marie-Anne Radmacher"
+  },
+  {
+    "id": 82,
+    "categorie": "inconnue",
+    "description": "Il n'y a qu'une seule personne qui puisse te rendre heureux, et cette personne, c'est toi.",
+    "author": "David Brûle"
+  },
+  {
+    "id": 83,
+    "categorie": "inconnue",
+    "description": "Faites ce que vous ressentez dans votre cœur pour avoir raison – car de toute façon, vous serez critiqué.",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "id": 84,
+    "categorie": "inconnue",
+    "description": "Crois que tu le peux et tu es à la moitié du chemin.",
+    "author": "Théodore Roosevelt"
+  },
+  {
+    "id": 85,
+    "categorie": "inconnue",
+    "description": "Vous manquez 100 % des clichés que vous ne prenez pas.",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "id": 86,
+    "categorie": "inconnue",
+    "description": "Si vous ne voulez pas faire une différence, écartez-vous de mon chemin.",
+    "author": "Robin Sharma"
+  },
+  {
+    "id": 87,
+    "categorie": "inconnue",
+    "description": "Cela semble toujours impossible jusqu'à ce que ce soit fait.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "id": 88,
+    "categorie": "inconnue",
+    "description": "Transformer vos blessures en sagesse.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "id": 89,
+    "categorie": "inconnue",
+    "description": "Nothing is impossible, the word itself says 'I'm possible'!",
+    "author": "Audrey Hepburn"
+  },
+  {
+    "id": 90,
+    "categorie": "inconnue",
+    "description": "Quiconque arrête d'apprendre est vieux.",
+    "author": "Henry Ford"
   }
 ]
