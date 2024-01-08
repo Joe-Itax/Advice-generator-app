@@ -538,5 +538,35 @@
     "categorie": "inconnue",
     "description": "Quiconque arrête d'apprendre est vieux.",
     "author": "Henry Ford"
+  },
+  {
+    "id": 91,
+    "categorie": "inconnue",
+    "description": "Ce n'est pas le moment de penser à ce que vous n'avez pas. Pensez à ce que vous pouvez faire avec ce que vous avez.",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "id": 92,
+    "categorie": "Bonheur",
+    "description": "De bons amis, de bons livres et la conscience somnolente, voilà le secret du bonheur.",
+    "author": "Mark Twain"
+  },
+  {
+    "id": 93,
+    "categorie": "inconnue",
+    "description": "Il ne suffit pas d'être le premier, il faut encore être le meilleur.",
+    "author": "Victor Hugo"
+  },
+  {
+    "id": 94,
+    "categorie": "inconnue",
+    "description": "On ne souffre jamais que du mal que nous font ceux qu'on aime. Le mal qui vient d'un ennemi ne compte pas.",
+    "author": "Victor Hugo"
+  },
+  {
+    "id": 95,
+    "categorie": "inconnue",
+    "description": "Là où le dialogue ne parvient pas à apporter la paix, la distance est la meilleure solution.",
+    "author": "William Sinclair M."
   }
 ]
