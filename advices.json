@@ -580,5 +580,23 @@
     "categorie": "inconnue",
     "description": "Vous avez le choix entre la souffrance de la discipline ou bien la souffrance du regret. Les regrets amènent une douleur qui est plus forte que celle de la discipline",
     "author": "Anonyme"
+  },
+  {
+    "id": 98,
+    "categorie": "inconnue",
+    "description": "Si vous ne travaillez pas pour <b>vos rêves</b>, quelqu'un vous embauchera pour travailler pour les <b>siens</b>",
+    "author": "Steve Jobs"
+  },
+  {
+    "id": 99,
+    "categorie": "inconnue",
+    "description": "Ce que tu as, beaucoup peuvent l'avoir. Mais ce que tu es, personne ne peut l'être.",
+    "author": "Anonyme"
+  },
+  {
+    "id": 100,
+    "categorie": "inconnue",
+    "description": "Ne laisse pas les réseaux sociaux te faire croire que ta vie n'est pas assez bien. Tu es exactement là où tu es censé être dans ton propre chemin de vie. Ne te compare pas à une fausse version de la vie des autres.",
+    "author": "Anonyme"
   }
 ]
